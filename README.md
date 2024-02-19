@@ -22,13 +22,4 @@ En este repositorio encontrarás:
 
 ¡Las contribuciones son bienvenidas! Si tienes ejercicios adicionales, conjuntos de datos interesantes o mejoras para los existentes, no dudes en enviar un *pull request*. Tu participación ayuda a enriquecer este repositorio y a beneficiar a la comunidad de análisis de datos.
 
-## Recursos Adicionales
-
-Para obtener más recursos sobre análisis de datos, te recomendamos consultar los siguientes enlaces:
-
-- [Enlace a un recurso relevante](https://example.com)
-- [Otro enlace útil](https://example.com)
-
-¡Disfruta explorando y mejorando tus habilidades en análisis de datos con DataAnalytics 01!
-
 ---
