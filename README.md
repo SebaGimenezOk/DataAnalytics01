@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes un ejemplo de texto para el README de tu repositorio en GitHub:
-
----
-
 # DataAnalytics 01
 
 ¡Bienvenido a DataAnalytics 01!
@@ -36,5 +32,3 @@ Para obtener más recursos sobre análisis de datos, te recomendamos consultar l
 ¡Disfruta explorando y mejorando tus habilidades en análisis de datos con DataAnalytics 01!
 
 ---
-
-Si necesitas más detalles o ajustes específicos, no dudes en decírmelo. ¡Estoy aquí para ayudarte!
